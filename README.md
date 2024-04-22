@@ -1,4 +1,3 @@
-### Hi there 👋
 <img align="right" src="https://vbr.nathanchung.dev/badge?page_id=ns-nexus.ns-nexus&color=55acb7&style=for-the-badge&logo=Github" />
 <br>
 <br>
@@ -61,10 +60,19 @@
 ## Reach Me At📫
 
 <div align="left"> 
-  <a href="mailto:n.sharma281202@gmail.com">
+  <a href="vidhishasingh0312@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
     <br>
+  <a href="www.linkedin.com/in/vidhisha-singh-93461a222" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    <br>
+    <img align="center" src="media/banner.png" />
+</div>
+
+<br>
+
   <a href="https://www.linkedin.com/in/nehasharma6342/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
