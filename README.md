@@ -1,15 +1,15 @@
-<img align="right" src="https://vbr.nathanchung.dev/badge?page_id=ns-nexus.ns-nexus&color=55acb7&style=for-the-badge&logo=Github" />
-<br>
-<br>
+![logo](https://github.com/Vidhisha03/Vidhisha03/blob/main/github.png)
+<h1 align="center">Hi 👋, I'm Vidhisha Singh</h1>
+<h3 align="center"> Aspiring Software Developer</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sup!+Fellow+Programmers!+👋;+I'm+Vidhisha Singh!;" />
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana-18singh&label=Profile%20views&color=0e75b6&style=flat" alt="anjana-18singh" /> </p>
+
 
 <div align="center">
     
-### College Student | Aspiring Software Developer
+### College Student
 
 </div>
 
@@ -44,6 +44,21 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 
+
+<br>
+## Reach Me At📫
+
+<div align="left"> 
+  <a href="vidhishasingh0312@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    <br>
+  <a href="https://www.linkedin.com/in/vidhisha-singh-93461a222/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    <br>
+    <img align="center" src="media/banner.png" />
+</div>
 
 <br>
 
