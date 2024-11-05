@@ -48,7 +48,7 @@
 
 ## Projects💡
 
-- **[Portfolio Website](https://github.com/Vidhisha03/Portfolio)**: My personal portfolio showcasing my work, skills, and achievements as a software developer.
+- **[Portfolio Website](https://github.com/Vidhisha03/Portfolio)**: My personal portfolio showcasing my work, skills, and achievements.
 - **[BookHub]**: An online bookstore application built using Java, JDBCServlet, MySQL, and JavaScript, allowing seamless management of book inventory and sales.
 - **[ChatApp](https://github.com/Vidhisha03/ChatApp)**: A real-time chat application developed with Node.js, Express, and Socket.IO to facilitate instant communication.
 
