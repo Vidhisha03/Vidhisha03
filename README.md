@@ -49,7 +49,7 @@
 ## Projects💡
 
 - **[Portfolio Website](https://github.com/Vidhisha03/Portfolio)**: My personal portfolio showcasing my work, skills, and achievements.
-- **[BookHub]**: An online bookstore application built using Java, JDBCServlet, MySQL, and JavaScript, allowing seamless management of book inventory and sales.
+- **[E-Commerce Dashboard](https://github.com/Vidhisha03/E-Dashboard-TCP.git)**: A comprehensive dashboard for The Computer Point, a hardware and software store, using MongoDB to manage product data, featuring seamless navigation and real-time updates.
 - **[ChatApp](https://github.com/Vidhisha03/ChatApp)**: A real-time chat application developed with Node.js, Express, and Socket.IO to facilitate instant communication.
 
 <br>
